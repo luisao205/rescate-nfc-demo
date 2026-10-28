@@ -1,0 +1,11 @@
+{
+  "name": "Rescate NFC · Demostración pública",
+  "short_name": "Rescate NFC",
+  "description": "Demostración temporal con datos ficticios de perfiles de emergencia autorizados.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071a2f",
+  "theme_color": "#071a2f",
+  "icons": [{ "src": "pwa-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
